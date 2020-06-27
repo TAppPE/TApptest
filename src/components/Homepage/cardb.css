@@ -1,0 +1,27 @@
+#card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 50px;
+    height: 400px;
+    width: 300px;
+    background: linear-gradient(#494B51, #000000);
+    box-shadow: 1px, 1px, 10px, 3px, #081C49;
+    border-radius: 25px;
+    margin-bottom: 50px;
+
+}
+
+#textcardb {
+    text-align: center;
+    padding-top: 120px;
+    font-size: 2em;
+    font-weight: 50;
+    font-family: helvetica;
+}
+
+#cardFont {
+    font-family: helvetica-light;
+    font-weight: 100px;
+}

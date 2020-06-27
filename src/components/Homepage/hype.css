@@ -1,0 +1,56 @@
+#hype {
+    display: flex;
+    background-color: white;
+    height: 85vh;
+    flex-direction: row;
+    width: 100%;
+}
+#hypeitems {
+    display: flex;
+    flex-direction: row;
+    height: 85vh;
+    width: 100%;
+}
+
+#texts {
+    display: flex;
+    width: 500px;
+    height: 600px;
+    flex-direction: column;
+}
+
+#hypetext {
+    display: inline-block;
+    width: 500px;
+    padding-left: 15px;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    margin-left: 80px;
+    text-align: center;
+    font-family: 'Roboto-Thin';
+    font-weight: 100;
+    color: #0050C1;
+    font-size: 40px;
+}
+
+#backgroundimages {
+    display: flex;
+    height: 85vh;
+    width: 700px;
+    margin-left: 150px;
+    background-image: url('../../assets/vince-fleming-aZVpxRydiJk-unsplash.jpg');
+    background-size: cover;
+}
+
+ .boldhdr {
+     display: inline-block;
+    font-family: 'Roboto-Bold';
+    color: #2D128C;
+}
+
+#mkpara {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+}

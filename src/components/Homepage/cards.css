@@ -1,0 +1,26 @@
+#card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    height: 400px;
+    width: 300px;
+    background: linear-gradient(#494B51, #000000);
+    box-shadow: 1px, 1px, 10px, 3px, #081C49;
+    border-radius: 25px;
+    margin-bottom: 50px;
+   color: white;
+}
+
+#textcard {
+    text-align: center;
+    padding-top: 120px;
+    font-family: 'Roboto-Thin';
+    font-weight: 100;
+}
+
+#cardFont {
+    font-family: 'Roboto-Thin';
+    font-size: 24px;
+    font-weight: 100px;
+}
