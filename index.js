@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './components/Homepage/App';
+import './src/index.css';
+import App from './src/components/Homepage/App';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import * as serviceWorker from './serviceWorker';
-import Signup from './components/Signup/signup';
-import Avatar from './components/Avatar/avatar';
-import Choose from './components/ChooseSports/choosesports';
-import studentDash from './components/Studentdash/dashboard';
+import * as serviceWorker from './src/serviceWorker';
+import Signup from './src/components/Signup/signup';
+import Avatar from './src/components/Avatar/avatar';
+import Choose from './src/components/ChooseSports/choosesports';
+import studentDash from './src/components/Studentdash/dashboard';
 
 
 ReactDOM.render(
