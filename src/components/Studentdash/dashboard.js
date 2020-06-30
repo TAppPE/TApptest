@@ -1,7 +1,7 @@
 import React from 'react';
 import './dashboard.css';
-import nav from '../navigation';
-import footer from '../footer';
+import nav from '../Homepage/navigation';
+import footer from '../Homepage/footer';
 import sportsDash from './sportsDash';
 import clubinfo from './ClubInfo';
 import GlobalFonts from '../font';
