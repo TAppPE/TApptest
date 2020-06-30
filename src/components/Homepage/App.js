@@ -5,8 +5,8 @@ import GlobalFonts from '../font';
 
 import header from './header';
 import hype from './hype';
-import footer from '../footer';
-import nav from '../navigation';
+import footer from './footer';
+import nav from './navigation';
 import hypeb from './hypeb';
 import hypec from './hypec';
 import { BrowserRouter } from 'react-router-dom';
