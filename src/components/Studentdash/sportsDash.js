@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+
 import './sportsDash.css';
 import GlobalFonts from '../font';
 
