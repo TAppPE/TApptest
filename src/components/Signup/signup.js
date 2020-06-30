@@ -1,7 +1,7 @@
 import React from 'react';
 import './signup.css';
-import nav from '../navigation';
-import footer from '../footer';
+import nav from '../Homepage/navigation';
+import footer from '../Homepage/footer';
 import signUp from './signupForm';
 
 const Nav = nav;
