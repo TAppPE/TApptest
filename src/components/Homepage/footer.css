@@ -1,0 +1,57 @@
+#footer {
+    display: flex;
+    flex-direction: row;
+    color: white;
+    height: 45vh;
+    background: linear-gradient(#494B51, #000000);
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#leftdetails {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-right: 50px;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+#rightdetails {
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+    margin-right: 200px;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    justify-content: space-evenly;
+}
+
+#socialmedia {
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.deets {
+   margin-left: 40px;
+   margin-bottom: -50px;
+}
+
+#tapplogofoot {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    font-size: 5em;
+    font-family: helvetica;
+    z-index: 500;
+    width: 500px;
+    margin-top: 50px;
+}
