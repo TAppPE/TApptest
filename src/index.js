@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './components/Homepage/App';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import * as serviceWorker from './serviceWorker';
+//import * as serviceWorker from './serviceWorker';
 import Signup from './components/Signup/signup';
 import Avatar from './components/Avatar/avatar';
 import Choose from './components/ChooseSports/choosesports';
