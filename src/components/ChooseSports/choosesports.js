@@ -1,7 +1,7 @@
 import React from 'react';
 import './choosesports.css';
-import nav from '../navigation';
-import footer from '../footer';
+import nav from '../Homepage/navigation';
+import footer from '../Homepage/footer';
 import { Link } from 'react-router-dom';
 
 const Nav = nav;
