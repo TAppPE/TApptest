@@ -14,6 +14,7 @@ const avatarButtons = () => {
                <button class="slidemenu"><span onClick="openNav()">Clothes</span></button>
                <button class="slidemenu"><span onClick="openNav()">Other</span>r</button>
             </div>
+        <div id="avatarContainer">
             <div id="avatar">
                 <div id="hair">
                 </div>
@@ -27,6 +28,7 @@ const avatarButtons = () => {
                 <div id="body"></div>
 
             </div>
+        </div>
  </div>
     )
 };
