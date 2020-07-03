@@ -10,6 +10,7 @@ const ClubInfo = () => {
                 <h2>Football</h2>
                 <div class="info">
                   <h4>Club Name:</h4>
+                 <h5>AFC Bournemouth</h5>
                   <h4>Email:</h4>
                   <h5>sdfg@lsdugf.com</h5>
                 </div>
@@ -18,6 +19,7 @@ const ClubInfo = () => {
 
                   <div class="info">
                   <h4>Club Name:</h4>
+                  <h5>South Coast Tigers</h5>
                   <h4>Email:</h4>
                   <h5>sdfg@lsdugf.com</h5>
                 </div>
@@ -25,6 +27,7 @@ const ClubInfo = () => {
                   <h2>Tennis:</h2>
                   <div class="info">
                   <h4>Club Name:</h4>
+                 <h5>Wimbledon</h5> 
                   <h4>Email:</h4>
                   <h5>sdfg@lsdugf.com</h5>
                 </div>
