@@ -1,0 +1,18 @@
+#sportsbtn {
+    background: linear-gradient(145deg, #0050C1, #2D128C);
+    border-radius: 25px;
+    color: white;
+    box-shadow: 3px, 3px, 10px, 3px, #2D12BC;
+    margin-bottom: 100px;
+    margin-left: 800px;
+    height: 40px;
+    width: 250px;
+    border: none;
+    font-size: 24px;
+}
+
+#sportsbtn:hover {
+    background: linear-gradient(145deg, #FFFFFF, #E8ECED);
+    color: #2D128C;
+    box-shadow: 1px 1px 5px -1px;
+}
