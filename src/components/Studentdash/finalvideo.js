@@ -6,7 +6,7 @@ import React from 'react';
 const finalVid = () => {
     return (
         <div id="finalbtncontainer">
-            <button id="Finalbtn">Submit</button>
+            <button id="Finalbtn"></button>
         </div>
     );
 };
