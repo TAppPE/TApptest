@@ -15,7 +15,13 @@ const sportsDash = () => {
             <div id="chosenSportContainer">
 
                 <div class="sportStats">                  
-                   <div id="sportimage"></div>                  
+                   <div id="sportimage">
+         <button class="invisible-btn">
+                       <div class="hover">
+                       <h2 class="hiddentext">Basketball</h2>
+                       </div>
+                   </button>
+                   </div>                  
                    <div id="trafficLight">
                        <div class="circle"></div>
                        <div class="circle"></div>
@@ -33,7 +39,13 @@ const sportsDash = () => {
                 </div>
 
                 <div class="sportStats">
-                   <div id="sportimageb"></div>
+                   <div id="sportimageb">
+         <button class="invisible-btn">
+                       <div class="hover">
+                       <h2 class="hiddentext">Basketball</h2>
+                       </div>
+                   </button>
+        </div>
                    <div id="trafficLight">
                          <div class="circle"></div>
                           <div class="circle"></div>
@@ -51,7 +63,12 @@ const sportsDash = () => {
                 </div>
 
                 <div class="sportStats">
-                   <div id="sportimagec"></div>
+                   <div id="sportimagec">
+         <button class="invisible-btn">
+                       <div class="hover">
+                       <h2 class="hiddentext">Basketball</h2>
+                       </div>
+                   </button></div>
                    <div id="trafficLight">
                          <div class="circle"></div>
                           <div class="circle"></div>
