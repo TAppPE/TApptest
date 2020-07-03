@@ -21,18 +21,22 @@
 }
 
 #runnerImage {
-   height: 600px;
-   width: 500px;
-   z-index: 50;
-   margin-left: 250px;
-   margin-bottom: 50px;
-   margin-top: -140px;
+   height: 700px;
+   width: 300px;
 }
 
 #imagerun {
     background-image: url('../../assets/undraw_fitness_stats_sht6.svg');
     background-size: cover;
     z-index: 20;
+    eight: 380px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-top: 200px;
+    margin-left: 100px;
+    background-size: contain;
 }
 
 #formInner {
@@ -97,7 +101,7 @@
 }
 
 .label {
-    font-family: 'helvetica-light';
+    font-family: 'Roboto-Light';
     font-size: 24px;
     margin-bottom: 10px;
 }
