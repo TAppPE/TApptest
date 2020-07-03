@@ -1,0 +1,117 @@
+#allChoices {
+    height: 95vh;
+    width: 75%;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#sportRowA {
+    display: flex;
+    flex-direction: row;
+}
+#sportRowB {
+    display: flex;
+    flex-direction: row;
+}
+#sportRowC {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.sportChoiceImage {
+    margin-bottom: 20px;
+    margin-right: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+#sport1 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport2 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport3 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport4 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport5 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport6 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport7 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport8 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport9 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport10 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport11 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+#sport12 {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+   background: url('../../assets/tappelogo.jpg');
+}
+
+.hoverEff {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+    border: none;
+    background: none;
+
+}
+
+.hoverEff:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+}

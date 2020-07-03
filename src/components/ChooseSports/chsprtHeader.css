@@ -1,0 +1,19 @@
+#sprtHeaderContainer {
+    height: 300px;
+    width: 900px;
+    display: flex;
+    flex-direction: column;
+}
+#sprtHeader {
+    font-family: 'Roboto-Light';
+    font-weight: 100;
+    font-size: 60px;
+    margin-left: 220px;
+}
+
+#subHeading {
+    font-family: 'Roboto-Light';
+    font-weight: 100;
+    margin-left: 220px;
+    margin-bottom: 20px;
+}
