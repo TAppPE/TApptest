@@ -35,3 +35,19 @@
     box-shadow: 1px 1px 10px -3px #0050C1;
 }
 
+#avatarContainer {
+    display: flex;
+    flex-direction: column;
+    margin-left: 300px;
+    margin-top: 50px;
+   height: 450px;
+   width: 450px;
+}
+
+
+#avatar {
+    background-image: url('../../assets/jugador-de-rugby.svg');
+    background-size: cover;
+    height: 450px;
+    width: auto;
+}
