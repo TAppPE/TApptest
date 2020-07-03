@@ -12,7 +12,7 @@ const avatarButtons = () => {
                <button class="slidemenu"><span onClick="openNav()">Mouth</span></button>
                <button class="slidemenu"><span onClick="openNav()">Nose</span></button>
                <button class="slidemenu"><span onClick="openNav()">Clothes</span></button>
-               <button class="slidemenu"><span onClick="openNav()">Other</span>r</button>
+               <button class="slidemenu"><span onClick="openNav()">Other</span></button>
             </div>
         <div id="avatarContainer">
             <div id="avatar">
