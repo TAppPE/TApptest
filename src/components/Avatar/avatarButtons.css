@@ -1,0 +1,37 @@
+#avatarBtns {
+    display: flex;
+    flex-direction: row;
+    height: 85vh;
+    width: 100%;
+}
+
+#options {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding: 20px;
+}
+
+.slidemenu {
+    height: 60px;
+    width: 120px;
+    border-radius: 25px 0 0 25px;
+    border: none;
+    background: linear-gradient(155deg, #FFFFFF, #E3E3E3);
+    color: #0050C1;
+    margin-bottom: 3px;
+    margin-left: 100px;
+    font-family: 'Roboto-Light';
+    font-weight: 100;
+    font-size: 20px;
+    text-align: right;
+    box-shadow: 1px 1px 10px -3px grey;
+}
+
+.slidemenu:hover {
+    background: linear-gradient(145deg, #0050C1, #2D128C);
+    color: white;
+    font-family: 'Roboto-Medium';
+    box-shadow: 1px 1px 10px -3px #0050C1;
+}
+

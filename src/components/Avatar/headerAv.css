@@ -1,0 +1,12 @@
+#avHeader {
+    display: flex;
+}
+
+#textAvatar {
+    font-family: 'Roboto-Light';
+    font-weight: 100;
+    color: #081C49;
+    font-size: 52px;
+    margin-left: 124px;
+    margin-top: 50px;
+}
