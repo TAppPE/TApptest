@@ -1,0 +1,145 @@
+#allChoices {
+    height: 95vh;
+    width: 75%;
+    margin-left: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#sportRowA {
+    display: flex;
+    flex-direction: row;
+}
+#sportRowB {
+    display: flex;
+    flex-direction: row;
+}
+#sportRowC {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.sportChoiceImage {
+    margin-top: 50px;
+    margin-bottom: 32px;
+    margin-right: 32px;
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+}
+
+#sport1:focus {
+    border: 0;
+    text-decoration: none;
+}
+#sport1 {
+    height: 180px;
+    width: 180px;
+    outline: none;
+    border-radius: 25px;
+    border: none;
+    text-decoration: none;
+   background: url('../../assets/basketball.svg');
+}
+#sport2 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/cricket-player-with-bat.svg');
+}
+#sport3 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/tennis.svg');
+}
+#sport4 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/rowing.svg');
+}
+#sport5 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/jumping-dancer.svg');
+}
+#sport6 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/rugby-player.svg');
+}
+#sport7 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/sportive.svg');
+}
+#sport8 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/handball.svg');
+}
+#sport9 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/volleyball.svg');
+}
+#sport10 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/soccer-player.svg');
+}
+#sport11 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/kayaking.svg');
+}
+#sport12 {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+   background: url('../../assets/swimming-pool.svg');
+}
+
+.hoverEff {
+    height: 180px;
+    width: 180px;
+    border-radius: 25px;
+    border: none;
+    background: none;
+    outline: none;
+
+}
+
+.hoverEff:visited {
+    border: 10px solid #2D12BC;
+    border-radius: 25px;
+}
+
+
+.hoverEff:hover {
+    background-color: rgba(4, 0, 255, 0.062);
+}
+.text {
+    font-family: 'Roboto-Light';
+    font-size: 20px;
+    font-weight: 100;
+    color: #0050C1;
+    z-index: 1;
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
