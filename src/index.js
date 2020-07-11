@@ -19,7 +19,7 @@ ReactDOM.render(
      <Route exact path='/avatar' component={Avatar}/>
      <Route exact path='/choosesports' component={Choose}/>
      <Route exact path='/dash' component={studentDash}/>
-     <Route exact path='/skills' component={skills}/>
+     <Route exact path='/Footballskill' component={skills}/>
      </Switch>
     </BrowserRouter >,
 document.getElementById('root'));
