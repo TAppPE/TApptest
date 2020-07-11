@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 import './sportsDash.css';
 import GlobalFonts from '../font';
 
@@ -16,8 +16,8 @@ const sportsDash = () => {
 
                 <div class="sportStats">                  
                    <div id="sportimage">
-         <button class="invisible-btn">
-                   </button>
+         < Link to ='/Footballskill' ><button class="invisible-btn">
+                   </button> </ Link >
                    </div>                  
                    <div id="trafficLight">
                        <div class="circle"></div>
