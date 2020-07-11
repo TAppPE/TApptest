@@ -8,9 +8,6 @@ const skills = () => {
              <h3 class="number">#1</h3>
          </div>
          <div class="skills">
-         <h3 class="number">#1</h3>
-         </div>
-         <div class="skills">
          <h3 class="number">#2</h3>
          </div>
          <div class="skills">
@@ -39,6 +36,9 @@ const skills = () => {
          </div>
          <div class="skills">
          <h3 class="number">#11</h3>
+         </div>
+         <div class="skills">
+         <h3 class="number">#12</h3>
          </div>
 
      </div>
