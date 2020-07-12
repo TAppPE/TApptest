@@ -1,4 +1,5 @@
 import React from 'react';
+import './finalvideo.css';
 
 
 //const Playbtn = <FontAwesomeIcon icon={faPlay} />;
