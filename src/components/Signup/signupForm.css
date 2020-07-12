@@ -29,7 +29,7 @@
     background: url('../../assets/undraw_fitness_stats_sht6.svg');
     background-size: cover;
     z-index: 20;
-    eight: 380px;
+    height: 380px;
     width: 600px;
     display: flex;
     flex-direction: column;
