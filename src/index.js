@@ -9,7 +9,7 @@ import Choose from './components/ChooseSports/choosesports';
 import studentDash from './components/Studentdash/dashboard';
 import skills from './components/Skills/Football/skillspage';
 import tennisskill from './components/Skills/Tennis/tennis';
-import Basketball from './components/Skills/Basketball/basketball';
+import basketball from './components/Skills/Basketball/basketball';
 
 
 ReactDOM.render(
@@ -22,7 +22,7 @@ ReactDOM.render(
      <Route exact path='/dash' component={studentDash}/>
      <Route exact path='/Footballskill' component={skills}/>
      <Route exact path='/Tennis' component={tennisskill}/>
-    <Route exact path='/Basketball' component={Basketball}/>
+    <Route exact path='/Basketball' component={basketball}/>
      </Switch>
     </BrowserRouter >,
 document.getElementById('root'));
