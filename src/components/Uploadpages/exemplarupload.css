@@ -1,0 +1,28 @@
+#vidimg {
+    height: 500px;
+    width: 700px;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    background: linear-gradient(145deg, #1475FC, #170557);
+}
+
+#videoeg {
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#iconvid {
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    background: URL('../../assets/play-button.svg');
+    justify-content: center;
+    align-items: center;
+}

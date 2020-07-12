@@ -1,0 +1,26 @@
+#exheadline {
+    font-family: 'Roboto-Thin';
+    font-size: 32px;
+    color: black;
+    width: 750px;
+    margin-left: 570px;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#centers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+#central {
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    justify-content: center;
+    align-items: center;
+}

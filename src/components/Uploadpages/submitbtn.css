@@ -1,0 +1,22 @@
+#ButtonSub {
+    outline: none;
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+    border-radius: 25px;
+    height: 40px;
+    width: 200px;
+    font-family: 'Roboto-regular';
+    font-size: 20px;
+    color: white;
+    background: linear-gradient(#494B51, #000000);
+    margin-bottom: 200px;
+}
+
+#submitBtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
