@@ -1,0 +1,96 @@
+#nav-background {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    height: 50px;
+    margin: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+    z-index: 5000;
+}
+
+#nav-buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-decoration: none;
+
+}
+#logo {
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 100px;
+}
+
+#tapphp {
+    flex-direction: row;
+    height: 30px;
+    width: 100px;
+    align-items: flex-end;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: blue;
+    border: none;
+    border-radius: 7px;
+    font-size: 24px;
+    font-family: 'Roboto-regular';
+    outline: none;
+    text-decoration: none;
+    background-color: white;
+}
+
+#red {
+    display: inline-block;
+    color: red;
+}
+
+#PP {
+    display: inline-block;
+    font-size: 16px;
+    margin-top: -20px;
+}
+
+#hoverpp {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    margin-top: -7px;
+}
+
+#endbtns {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    color: blue;
+}
+
+#LOGIN {
+    height: 30px;
+    width: 100px;
+    align-items: flex-end;
+    margin-left: 30px;
+    margin-bottom: 10px;
+    color: blue;
+    border: none;
+    border-radius: 7px;
+    outline: none;
+    text-decoration: none;
+    background-color: white;
+    border: 1px solid grey;
+}
+
+#ABOUT {
+    height: 30px;
+    width: 100px;
+    align-items: flex-end;
+    margin-left: 800px;
+    margin-bottom: 10px;
+    color: blue;
+    border: none;
+    border-radius: 7px;
+    outline: none;
+    text-decoration: none;
+    background-color: white;
+    border: 1px solid grey;
+}
