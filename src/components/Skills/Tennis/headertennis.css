@@ -1,0 +1,32 @@
+#imageTen {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-image: url('../../../assets/guilherme-maggieri-OH5g9IgcMWs-unsplash.jpg');
+    height: 250px;
+    width:100%;
+    margin-top: 100px;
+    background-size: cover;
+    background-position: center center;
+}
+
+#headertext {
+    display: flex;
+    font-family: 'Roboto-Light';
+    color: white;
+    text-shadow: 3px 3px 3px rgba(7, 7, 20, 0.3);
+    font-size: 120px;
+    margin-top: -360px;
+    margin-bottom: 50px;
+    margin-left: 700px;
+    z-index: 2;
+}
+
+.skillText {
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+}
