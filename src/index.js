@@ -10,6 +10,7 @@ import studentDash from './components/Studentdash/dashboard';
 import skills from './components/Skills/Football/skillspage';
 import tennisskill from './components/Skills/Tennis/tennis';
 import basketball from './components/Skills/Basketball/basketball';
+import ftballone from './components/Uploadpages/upload';
 
 
 ReactDOM.render(
@@ -23,6 +24,7 @@ ReactDOM.render(
      <Route exact path='/Footballskill' component={skills}/>
      <Route exact path='/Tennis' component={tennisskill}/>
     <Route exact path='/Basketball' component={basketball}/>
+    <Route exact path='/fb1' component={ftballone}/>
      </Switch>
     </BrowserRouter >,
 document.getElementById('root'));
