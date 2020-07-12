@@ -1,0 +1,40 @@
+#card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-left: 50px;
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    box-shadow: 1px, 1px, 10px, 3px, #081C49;
+    border-radius: 25px;
+    margin-bottom: 50px;
+    color: black;
+
+}
+#recorditc {
+    background: URL('../../assets/send.svg');
+    height: 120px;
+    width: 120px;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 32px;
+    margin-bottom: 70px;
+}
+
+#textcardc {
+    text-align: center;
+    font-size: 2em;
+    font-family: helvetica-light;
+    font-weight: 100;
+}
+
+#cardFont {
+    font-family: 'helvetica-light';
+    width: 200px;
+    font-weight: 100;
+}

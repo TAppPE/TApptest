@@ -1,0 +1,49 @@
+#hypeb {
+    height: 85vh;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: linear-gradient(#494B51, #000000);
+
+}
+#wholesection {
+    display: flex;
+    height: 85vh;
+    flex-direction: column;
+}
+
+
+#itemss {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: -220px;
+    text-align: center;
+    margin-left: 200px;
+}
+#cardss {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-left: 12px;
+    margin-top: 120px;
+    margin-left: -100px;
+}
+
+
+#headertextB {
+    display: inline-block;
+    margin-right: 400px;
+    margin-top: 270px;
+    font-size: 35px;
+    font-family: 'PlayfairDisplay-Medium';
+    width: 800px;
+    font-weight: 100px;
+    color: white;
+}
+
+#PDitalic {
+    font-family: 'PlayfairDisplay-BoldItalic';
+    color: white;
+}
