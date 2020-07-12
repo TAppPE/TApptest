@@ -64,7 +64,8 @@ const sportsDash = () => {
                    <div id="sportimagec">
                    <button class="invisible-btn">
                    <div class="hover">
-                   <h2 class="hiddentext">Football</h2>
+                    <Link to ='/Basketball' > <button id="footballBtn"><div class="hover"></div></button> </ Link>
+                  
                    </div>
                    </button>
                    </div>
