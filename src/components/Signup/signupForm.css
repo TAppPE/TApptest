@@ -26,7 +26,7 @@
 }
 
 #imagerun {
-    background-image: url('../../assets/undraw_fitness_stats_sht6.svg');
+    background: url('../../assets/undraw_fitness_stats_sht6.svg');
     background-size: cover;
     z-index: 20;
     eight: 380px;
