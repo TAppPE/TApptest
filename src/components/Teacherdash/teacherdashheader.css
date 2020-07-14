@@ -1,0 +1,30 @@
+#teachheader {
+    display: flex;
+    margin: 0;
+    padding: 0 auto;
+    flex-direction: row;
+    flex: 1;
+    justify-content: center;
+    margin-left: -650px;
+    margin-top: 100px;
+}
+
+#teachheadcontainer {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+#headone {
+    font-family: 'Roboto-Light';
+    font-size: 44px;
+    color: black;
+}
+
+#headtwo {
+    font-family: 'Roboto-Thin';
+    font-size: 32px;
+    color: black;
+}

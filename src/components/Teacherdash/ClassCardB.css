@@ -1,0 +1,59 @@
+#mainContainerB {
+    display: flex;
+    height: 360px;
+    width: 300px;
+    border-radius: 25px;
+    border: 1px solid grey;
+    flex-direction: column;
+    margin-right: 50px;
+    margin-bottom: 70px;
+    margin-top: -100px;
+}
+
+#TitleContB {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto-Light';
+    font-size: 32px;
+
+}
+
+#MainTitleB {
+    font-family: 'Roboto-Light';
+    font-size: 32px;
+}
+
+#SubTitleB {
+    font-family: 'Roboto-Light';
+    font-size: 20px;
+}
+#btnContainerB {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ViewB {
+    text-decoration: none;
+    outline: none;
+    border: none;
+    background: linear-gradient(145deg, #1475FC, #170557);
+    width: 200px;
+    height: 40px;
+    color: white;
+    border-radius: 25px;
+    margin-top: 70px;
+    font-family: 'Roboto-Regular';
+    font-size: 20px;
+}
+
+#mainImageB {
+    background-image: URL('../../assets/jeffrey-f-lin-ZZqpsFHSJGQ-unsplash.jpg');
+    width: 300px;
+    height: 150px;
+    background-position: center center;
+    background-size: cover;
+
+}
