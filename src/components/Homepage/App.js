@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import GlobalFonts from '../font';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import header from './header';
 import hype from './hype';
