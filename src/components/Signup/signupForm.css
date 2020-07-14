@@ -1,0 +1,128 @@
+#sectionContainer {
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    flex-direction: row;
+
+}
+
+#sideHype {
+    width: 500px;
+    background: linear-gradient(145deg, #1475FC, #170557);
+}
+
+#sideHypeFont {
+    margin-top: 60px;
+    margin-left: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'helvetica-light';
+    font-weight: 100;
+}
+
+#runnerImage {
+   height: 700px;
+   width: 300px;
+}
+
+#imagerun {
+    background: url('../../assets/undraw_fitness_stats_sht6.svg');
+    background-size: cover;
+    z-index: 20;
+    height: 380px;
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-top: 200px;
+    margin-left: 100px;
+    background-size: contain;
+}
+
+#formInner {
+    display: flex;
+    width: 400px;
+    height: 500px;
+    margin-left: 200px;
+    border: none;
+    box-shadow: 3px, 3px, 10px, 3px;
+    margin-right: 50px;
+}
+
+#formInput {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#name {
+    border: none;
+    box-shadow: 1px 1px 10px -3px;
+    border-radius: 8px;
+    height: 35px;
+    width: 250px;
+}
+
+#mail {
+    border: none;
+    box-shadow: 1px 1px 10px -3px;
+    border-radius: 8px;
+    height: 35px;
+    width: 250px;
+}
+
+#role {
+    border: none;
+    box-shadow: 1px 1px 10px -3px;
+    border-radius: 8px;
+    height: 35px;
+    width: 250px;
+}
+
+#signheader {
+    font-family: 'Roboto-Regular';
+    font-size: 40px;
+}
+
+#textheader {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+
+}
+
+#TitleRole {
+    display: flex;
+    margin-right: 130px;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 14px;
+}
+
+.label {
+    font-family: 'helvetica-light';
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#register {
+    height: 30px;
+    width: 100px;
+    margin-left: 500px;
+    color: white;
+    box-shadow: 1px 1px 10px -3px #9e9e9e;
+    border: none;
+    border-radius: 15px;
+    background: linear-gradient(145deg, #FF7176, #F80007);
+}
+
+#btn1 {
+    margin-bottom: 300px;
+}
