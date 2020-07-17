@@ -15,7 +15,7 @@ const hype = () => {
 
             </div>
             
-            <div id="backgroundimages">
+            <div id="backgroundimages" class="img-fluid">
             </div>
 
         </div>
