@@ -8,6 +8,11 @@
 
 }
 
+ .img-fluid {
+      max-width: 100%;
+      height: auto;
+  }
+
 #headertextA {
     width: 62vw;
     font-family: 'Roboto-Light';
