@@ -7,7 +7,7 @@ const hypec = () => {
     <div id="hypeccontainer">
       <GlobalFonts />
       <div id="itemsz">
-          <div id="imagehype">
+          <div id="imagehype" class="img-fluid">
               
           </div>
           <div id="text">
