@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
+import { Link } from 'react-router-dom';
 
 export default class RegisterCreate extends Component {
     constructor(props) {
@@ -144,7 +145,7 @@ onSubmit(e) {
                             </div>
                     </div>
                     <div className="form-group">
-                        <input type="submit" value="Register" className="btn btn-primary" />
+                        <Link to='/avatar'><input type="submit" value="Register" className="btn btn-primary" /></Link>
                     </div>
                 </form>
             </div>
